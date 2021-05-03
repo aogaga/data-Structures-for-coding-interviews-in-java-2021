@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BinarySearchTreeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-27T07:21:26" hostname="OgheneogagasMBP.attlocal.net" time="0.015">
+  <properties/>
+  <testcase name="testFindAncestors()" classname="BinarySearchTreeTest" time="0.015"/>
+  <system-out><![CDATA[6 9 12 
+6 4 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
